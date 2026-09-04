@@ -1,9 +1,0 @@
-{
-  "name": "zikais-chess-engine",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Zikai's Chess Engine — a pure-JavaScript chess engine playable in the browser, no build step, no dependencies.",
-  "scripts": {
-    "dev": "npx serve ."
-  }
-}
